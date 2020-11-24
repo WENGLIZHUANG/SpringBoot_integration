@@ -1,7 +1,7 @@
 package gdut.wlz.service;
 
 import gdut.wlz.domain.User;
-import gdut.wlz.UserMapper;
+import gdut.wlz.mapper.UserMapper;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

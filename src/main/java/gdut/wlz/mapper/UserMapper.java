@@ -1,4 +1,4 @@
-package gdut.wlz;
+package gdut.wlz.mapper;
 
 import gdut.wlz.domain.User;
 import tk.mybatis.mapper.common.Mapper;
